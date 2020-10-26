@@ -1,0 +1,172 @@
+
+25/10/2020 00:38:06 PagSeguro.Session[info]: Begin
+25/10/2020 00:38:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 00:38:12 PagSeguro.Session[info]: Session ID: 557d8318657c4ecf9ffec40794bbe16d
+25/10/2020 00:39:00 PagSeguro.Session[info]: Begin
+25/10/2020 00:39:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 00:39:07 PagSeguro.Session[info]: Session ID: 912d210da1034f65b842d11862164d90
+25/10/2020 13:42:32 PagSeguro.Session[info]: Begin
+25/10/2020 13:42:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 13:42:39 PagSeguro.Session[info]: Session ID: 73ed000f819443b7a2e912442bc5e77d
+25/10/2020 13:48:46 PagSeguro.Session[info]: Begin
+25/10/2020 13:48:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 13:48:53 PagSeguro.Session[info]: Session ID: 20e72c0fa3fb4b329c9324a008db580b
+25/10/2020 13:49:04 PagSeguro.Session[info]: Begin
+25/10/2020 13:49:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 13:49:10 PagSeguro.Session[info]: Session ID: ae93fc4a759842c8911d1f5b969e92df
+25/10/2020 13:49:57 PagSeguro.Session[info]: Begin
+25/10/2020 13:49:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 13:50:03 PagSeguro.Session[info]: Session ID: 08ed44d011e848138b2985418c89c224
+25/10/2020 13:50:54 PagSeguro.Session[info]: Begin
+25/10/2020 13:50:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 13:51:00 PagSeguro.Session[info]: Session ID: 9615abdcbbe0485f9203a9f5261652d3
+25/10/2020 13:54:21 PagSeguro.Session[info]: Begin
+25/10/2020 13:54:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 13:54:27 PagSeguro.Session[info]: Session ID: f0ddc046c92e46108b9d75c65a5f659e
+25/10/2020 13:59:18 PagSeguro.Session[info]: Begin
+25/10/2020 13:59:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 13:59:25 PagSeguro.Session[info]: Session ID: cc7f4d8eb5734963a165bd45076b4cb3
+25/10/2020 14:01:31 PagSeguro.Session[info]: Begin
+25/10/2020 14:01:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:01:38 PagSeguro.Session[info]: Session ID: 53afaff8f8cd4be095284cf8e51009ee
+25/10/2020 14:02:48 PagSeguro.Session[info]: Begin
+25/10/2020 14:02:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:02:54 PagSeguro.Session[info]: Session ID: f5b354e3cfa249f7b616fc9b0e6a42b3
+25/10/2020 14:03:52 PagSeguro.Session[info]: Begin
+25/10/2020 14:03:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:03:58 PagSeguro.Session[info]: Session ID: 7d15e0b2a28e46f5bc74d35963db9429
+25/10/2020 14:10:09 PagSeguro.Session[info]: Begin
+25/10/2020 14:10:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:10:16 PagSeguro.Session[info]: Session ID: 6249ab700b3b4ddcbfa4b36533852f82
+25/10/2020 14:31:21 PagSeguro.Session[info]: Begin
+25/10/2020 14:31:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:31:27 PagSeguro.Session[info]: Session ID: ee4564fe6ec546069ada5ddaad7690a3
+25/10/2020 14:35:13 PagSeguro.Session[info]: Begin
+25/10/2020 14:35:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:35:20 PagSeguro.Session[info]: Session ID: e7b3daca3a0c44a3aa1d0911a14a502e
+25/10/2020 14:36:22 PagSeguro.Session[info]: Begin
+25/10/2020 14:36:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:36:28 PagSeguro.Session[info]: Session ID: 2647cd57a23e4ac5b20fdeea04f17ad0
+25/10/2020 14:43:06 PagSeguro.Session[info]: Begin
+25/10/2020 14:43:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:43:13 PagSeguro.Session[info]: Session ID: 20f5cce8b9134b66b039c400237c5398
+25/10/2020 14:49:49 PagSeguro.Session[info]: Begin
+25/10/2020 14:49:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:49:55 PagSeguro.Session[info]: Session ID: 2555dc77028a4010ba86abb69a038dbb
+25/10/2020 14:57:05 PagSeguro.Session[info]: Begin
+25/10/2020 14:57:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 14:57:12 PagSeguro.Session[info]: Session ID: cc53bfdeba1342879e9b8ae2ecc1b502
+25/10/2020 15:02:01 PagSeguro.Session[info]: Begin
+25/10/2020 15:02:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:02:08 PagSeguro.Session[info]: Session ID: a05df87a0d254feaab449447ca975c85
+25/10/2020 15:11:28 PagSeguro.Session[info]: Begin
+25/10/2020 15:11:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:11:34 PagSeguro.Session[info]: Session ID: 3fdf1ca57a194e40a787a8439afbae70
+25/10/2020 15:12:17 PagSeguro.Session[info]: Begin
+25/10/2020 15:12:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:12:24 PagSeguro.Session[info]: Session ID: a681f2b1ad4d464ebd32dcc165b249d1
+25/10/2020 15:24:50 PagSeguro.Session[info]: Begin
+25/10/2020 15:24:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:24:57 PagSeguro.Session[info]: Session ID: 3f47039d77174bdda416ab1dc8e50f57
+25/10/2020 15:35:12 PagSeguro.Session[info]: Begin
+25/10/2020 15:35:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:35:22 PagSeguro.Session[info]: Session ID: 2c61d4213f924e849dc1f2186e622645
+25/10/2020 15:36:25 PagSeguro.Session[info]: Begin
+25/10/2020 15:36:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:36:32 PagSeguro.Session[info]: Session ID: f6cd0a8e30194a4cb981f6bd716d4f8d
+25/10/2020 15:39:53 PagSeguro.Session[info]: Begin
+25/10/2020 15:39:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:39:59 PagSeguro.Session[info]: Session ID: 71612d97fd6b4acaaf0611001ef280be
+25/10/2020 15:40:14 PagSeguro.Session[info]: Begin
+25/10/2020 15:40:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:40:20 PagSeguro.Session[info]: Session ID: b9b5c7abb2fe4135802f38f273460c20
+25/10/2020 15:41:09 PagSeguro.Session[info]: Begin
+25/10/2020 15:41:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:41:15 PagSeguro.Session[info]: Session ID: deb79fc9d2cd49e28f2c32184a8bcb66
+25/10/2020 15:57:36 PagSeguro.Session[info]: Begin
+25/10/2020 15:57:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 15:57:42 PagSeguro.Session[info]: Session ID: 62af5d0e3ae0480dac86594a5ad03993
+25/10/2020 18:30:53 PagSeguro.Session[info]: Begin
+25/10/2020 18:30:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 18:30:59 PagSeguro.Session[info]: Session ID: e29148a4ac364113ad2bb755a8fdea10
+25/10/2020 20:21:05 PagSeguro.Session[info]: Begin
+25/10/2020 20:21:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 20:21:12 PagSeguro.Session[info]: Session ID: e28b370b94dd4450b997c45efdf661d2
+25/10/2020 20:26:43 PagSeguro.Session[info]: Begin
+25/10/2020 20:26:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 20:26:49 PagSeguro.Session[info]: Session ID: d721ab2d143d453e9e4b38018dbea5be
+25/10/2020 20:33:34 PagSeguro.Session[info]: Begin
+25/10/2020 20:33:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 20:33:40 PagSeguro.Session[info]: Session ID: 4d15b6d7ba804b58a1fbe91eca1da284
+25/10/2020 20:36:44 PagSeguro.Session[info]: Begin
+25/10/2020 20:36:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 20:36:50 PagSeguro.Session[info]: Session ID: 6477480b1c8445068536c8bb7275a058
+25/10/2020 20:50:46 PagSeguro.Session[info]: Begin
+25/10/2020 20:50:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 20:50:53 PagSeguro.Session[info]: Session ID: c0c52285c04d47deb766e679a35beaf1
+25/10/2020 20:56:55 PagSeguro.Session[info]: Begin
+25/10/2020 20:56:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 20:57:01 PagSeguro.Session[info]: Session ID: 95bfbb8befca4acdb9f4736bf0be26dc
+25/10/2020 21:03:30 PagSeguro.Session[info]: Begin
+25/10/2020 21:03:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:03:37 PagSeguro.Session[info]: Session ID: 92492cbc93a54abea7bc62018ee8c105
+25/10/2020 21:04:46 PagSeguro.Session[info]: Begin
+25/10/2020 21:04:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:04:52 PagSeguro.Session[info]: Session ID: 1f45aea4e2d54d9894b4b917685fd109
+25/10/2020 21:06:43 PagSeguro.Session[info]: Begin
+25/10/2020 21:06:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:06:49 PagSeguro.Session[info]: Session ID: 08d3020e9f40470f895ddef7a1302a85
+25/10/2020 21:07:25 PagSeguro.Session[info]: Begin
+25/10/2020 21:07:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:07:32 PagSeguro.Session[info]: Session ID: 34a997b0a07248869a18af56c473d28d
+25/10/2020 21:09:06 PagSeguro.Session[info]: Begin
+25/10/2020 21:09:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:09:12 PagSeguro.Session[info]: Session ID: fc4396605ba940688f9dceef62445f9f
+25/10/2020 21:09:32 PagSeguro.Session[info]: Begin
+25/10/2020 21:09:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:09:38 PagSeguro.Session[info]: Session ID: c81b67b78ac64563ba1d0bbabb49bd54
+25/10/2020 21:10:15 PagSeguro.Session[info]: Begin
+25/10/2020 21:10:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:10:21 PagSeguro.Session[info]: Session ID: b2e5a333f6ea4feeb5d21b03e676a904
+25/10/2020 21:12:27 PagSeguro.Session[info]: Begin
+25/10/2020 21:12:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:12:33 PagSeguro.Session[info]: Session ID: 80bf48555ff94fcfa8aeea0c6787e27f
+25/10/2020 21:34:46 PagSeguro.Session[info]: Begin
+25/10/2020 21:34:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:34:52 PagSeguro.Session[info]: Session ID: 63019fea2aa74725818b7b5960fc497e
+25/10/2020 21:42:18 PagSeguro.Session[info]: Begin
+25/10/2020 21:42:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:42:24 PagSeguro.Session[info]: Session ID: 8da5caee8302441da2b2522ff7922984
+25/10/2020 21:53:41 PagSeguro.Session[info]: Begin
+25/10/2020 21:53:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+25/10/2020 21:53:48 PagSeguro.Session[info]: Session ID: 2f27ec04c41349f3824d29e983e5eacb
+26/10/2020 10:38:27 PagSeguro.Session[info]: Begin
+26/10/2020 10:38:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 10:38:33 PagSeguro.Session[info]: Session ID: 93c5a1d05e6547c29a5d5ae83010a32f
+26/10/2020 10:40:28 PagSeguro.Session[info]: Begin
+26/10/2020 10:40:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 10:40:34 PagSeguro.Session[info]: Session ID: 8297fc027a0342b7b1389fe5eeaef653
+26/10/2020 10:44:18 PagSeguro.Session[info]: Begin
+26/10/2020 10:44:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 10:44:24 PagSeguro.Session[info]: Session ID: 1d91760eb82048338aaed58ecf3bfd71
+26/10/2020 10:46:54 PagSeguro.Session[info]: Begin
+26/10/2020 10:46:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 10:47:00 PagSeguro.Session[info]: Session ID: 09d54a60b4fd42c2affff09b29369fa0
+26/10/2020 10:48:19 PagSeguro.Session[info]: Begin
+26/10/2020 10:48:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 10:48:26 PagSeguro.Session[info]: Session ID: 9c8fcbce6e3b4fe587d848c9dff5410a
+26/10/2020 10:51:51 PagSeguro.Session[info]: Begin
+26/10/2020 10:51:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 10:51:57 PagSeguro.Session[info]: Session ID: d6c9c0ca372a4e7b8568109c476fc48f
+26/10/2020 11:27:16 PagSeguro.Session[info]: Begin
+26/10/2020 11:27:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 11:27:22 PagSeguro.Session[info]: Session ID: a71b636b60c5492784a6b907be236b8b
+26/10/2020 11:27:50 PagSeguro.Session[info]: Begin
+26/10/2020 11:27:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 11:27:56 PagSeguro.Session[info]: Session ID: edcff3be7ca1425999c86195173bc053
+26/10/2020 11:31:46 PagSeguro.Session[info]: Begin
+26/10/2020 11:31:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 11:31:52 PagSeguro.Session[info]: Session ID: b81d167f811b401f8b46c9e0918dc77a
+26/10/2020 23:38:47 PagSeguro.Session[info]: Begin
+26/10/2020 23:38:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rodriguim159%40gmail.com&token=3C2C3C28D47F4E238FBF63448BF94CD3
+26/10/2020 23:38:56 PagSeguro.Session[info]: Session ID: c0bb2e7c3ddc49689ccb35fbbc489f32
